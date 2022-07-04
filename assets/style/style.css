@@ -1,0 +1,163 @@
+.ml-auto {
+  margin-left: auto;
+}
+
+.mr-auto {
+  margin-right: auto;
+}
+
+.mt-auto {
+  margin-top: auto;
+}
+
+.mb-auto {
+  margin-bottom: auto;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.mr-20 {
+  margin-right: 20px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.ml-20 {
+  margin-left: 20px;
+}
+
+.title-margin {
+  margin-top: 500px;
+  margin-bottom: 200px;
+}
+
+.container-margin {
+  margin-top: 100px;
+}
+
+.opacity {
+  opacity: 0.5;
+}
+
+.rounded-30 {
+  border-radius: 30px;
+}
+
+.nav-item:first-child {
+  padding-left: 0;
+}
+
+.nav-item {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.nav-item:last-child {
+  padding-right: 0;
+}
+
+.cover {
+  object-fit: cover;
+  width: 50px;
+  height: 100px;
+}
+
+.navbar-background {
+  background: rgba(0,0,0,0.4);
+}
+
+.banner-background {
+  background: #35393e;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 900px;
+  z-index: -1;
+}
+
+.banner {
+  background-image: url("../banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 900px;
+  opacity: 0.5;
+}
+
+.business-bg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 500px;
+  opacity: 0.3;
+}
+
+.coaching {
+  background-image: url("../business-coaching.jpg");
+}
+
+.consulting {
+  background-image: url("../business-consulting.jpg");
+}
+
+.training {
+  background-image: url("../corporate-training.jpg");
+}
+
+.business-content {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translate(0%, -50%);
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.scale-09 {
+  transform: scale(0.9);
+}
+
+.divider {
+  border: none;
+  border-bottom: 1px solid rgb(219, 219, 255);
+}
+
+.gradient {
+  background: rgb(184,189,228);
+  background: linear-gradient(90deg, rgba(184,189,228,1) 46%, rgba(189,189,189,0.9920343137254902) 100%);
+}
+
+.gradient-button {
+  background: rgba(0,0,0,0.2);
+}
+
+.blog-1 {
+  background-image: url("../blogs/post1-free-img.jpg");
+}
+
+.blog-2 {
+  background-image: url("../blogs/blog6-free-img.jpg");
+}
+
+.blog-3 {
+  background-image: url("../blogs/social-advert.jpg");
+}
+
+.blog-4 {
+  background-image: url("../blogs/road-track.jpg");
+}
+
+.blog-5 {
+  background-image: url("../blogs/salmon-fish.jpg");
+}
+
+.blog-6 {
+  background-image: url("../blogs/ultimate-path.jpg");
+}
